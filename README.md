@@ -1,4 +1,4 @@
-# Design-Project---Desain-Interaksi---MaRu-Mari-Urut-
+# Design Project-MaRu(Mari Urut)
 
 # MaRu UI/UX Design Mobile App
 MaRu (Mari Urut) is a mobile application designed to help users find nearby massage therapists based on their location. The app provides an easy way to search, connect, and book massage services, making wellness services more accessible and convenient.
