@@ -7,7 +7,4 @@ MaRu (Mari Urut) is a mobile application designed to help users find nearby mass
 - Adobe Illustrator
 
 ## View Design
-https://www.figma.com/design/OVUxCpw01NMx6bXwm5aHHu/Skripsii?node-id=0-1&t=8lPAmp9JrDYDhznB-1
-
-## View Repository Journal
-https://repositori.usu.ac.id/handle/123456789/110720
+https://www.figma.com/design/xbZ0KpQg8eFcSyhIWsRbYh/Tubes-DI?node-id=659-8365&t=OJFIeO1fBBZn2E5d-1
